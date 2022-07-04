@@ -7,8 +7,8 @@
 
 After the project is built and launched, Nuxt preloads all data and pages.
 
-![](..\nuxt-app\readme-sources\nuxt-issue-source.png) 
-![](..\nuxt-app\readme-sources\nuxt-issue-dom.png) 
+![](https://github.com/Aleksandr-om/nuxt-3-issue/blob/main/nuxt-app/readme-sources/nuxt-issue-source.png) 
+![](https://github.com/Aleksandr-om/nuxt-3-issue/blob/main/nuxt-app/readme-sources/nuxt-issue-dom.png)
 
 Should work like on [https://nuxt-prefetch.surge.sh/](https://nuxt-prefetch.surge.sh/)   
 Only those pages should be preloaded, links to which are visible in the browser and after the current page is fully loaded.    
